@@ -1,3 +1,13 @@
 # Local scratch files created during doc testing / CLI usage
 federated-credential.json
 
+# Environment variables (contains secrets)
+.env
+
+# Spike output
+results.md
+
+# Python cache
+__pycache__/
+*.pyc
+
