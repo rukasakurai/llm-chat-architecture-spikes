@@ -1,6 +1,16 @@
-# repo-baseline
+# llm-chat-architecture-spikes
 
-A minimal GitHub template repository providing baseline structure and conventions for new projects.
+Architecture spikes exploring different approaches to LLM-powered chat applications.
+
+## Spikes
+
+| Spike | Description |
+|-------|-------------|
+| [file-processing](spikes/file-processing/) | Compare direct-injection vs tool-call approaches for giving LLMs access to uploaded files |
+
+---
+
+## Template information
 
 ## What This Is
 
