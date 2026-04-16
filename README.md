@@ -4,9 +4,9 @@ Architecture spikes exploring different approaches to LLM-powered chat applicati
 
 ## Spikes
 
-| Spike | Description |
-|-------|-------------|
-| [file-processing](spikes/file-processing/) | Compare direct-injection vs tool-call approaches for giving LLMs access to uploaded files |
+| Spike | Description | Results |
+|-------|-------------|---------|
+| [file-processing](spikes/file-processing/) | Compare direct-injection vs tool-call approaches for giving LLMs access to uploaded files | [results.md](results.md) |
 
 ---
 

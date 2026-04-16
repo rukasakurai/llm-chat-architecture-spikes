@@ -12,6 +12,9 @@ The script runs both modes against three sample files (short / medium / long) wi
 question types (targeted Q&A and full-document summarisation), then prints a comparison
 table and saves `results.md`.
 
+> **Note:** The documents in [`samples/`](samples/) are entirely synthetic and do not
+> represent any real organisation, product, or individual.
+
 ## Prerequisites
 
 - [uv](https://docs.astral.sh/uv/) (Python package manager)
