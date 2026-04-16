@@ -3,9 +3,10 @@ federated-credential.json
 
 # Environment variables (contains secrets)
 .env
+spikes/**/.env
 
 # Spike output
-results.md
+spikes/**/results.md
 
 # Python cache
 __pycache__/

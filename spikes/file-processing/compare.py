@@ -34,7 +34,7 @@ from openai import OpenAI
 # Configuration
 # ---------------------------------------------------------------------------
 
-load_dotenv()
+load_dotenv(Path(__file__).with_name(".env"))
 
 MODEL_NAME = os.environ.get("MODEL_NAME", "gpt-5")
 
